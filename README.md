@@ -2,7 +2,7 @@
 I'm Leandro, from Brazil! Currently studying web development to be a back-end developer, and in the future become a full stack.
 
 IT techinician -- Hardware and Basic Network (technical course)<br>
-Finishing my graduatation in System Analysis.
+Finishing my graduation in System Analysis.
 
 I Love IT area in general! :)
 
