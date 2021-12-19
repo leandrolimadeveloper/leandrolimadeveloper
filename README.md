@@ -7,7 +7,7 @@ Finishing my graduatation in System Analysis.
 I Love IT area in general! :)
 
 ##
-**Tech and Tools: (Hard Skilss)**
+**Tech and Tools: (Hard Skills)**
 <div style="display: inline_block">
   <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,7 +31,8 @@ Discipline and constancy, Pomodoro Technique, Continuous personal/professional d
 
 Languages: Brazilian-Portuguese (native - I have relative good knowledge with my native language; before I back my studies to IT, I was studying to be a translator), Spanish (intermediate-advanced), English (intermediate)
 
-Contact me:
+##
+**Contact me:**<br>
 leandroslimasr@gmail.com
   
 ##
