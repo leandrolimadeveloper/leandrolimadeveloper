@@ -30,7 +30,10 @@ I Love IT area in general! :)
 Discipline and constancy, Pomodoro Technique, Continuous personal/professional development
 
 Languages: Brazilian-Portuguese (native - I have relative good knowledge with my native language; before I back my studies to IT, I was studying to be a translator), Spanish (intermediate-advanced), English (intermediate)
-   
+
+Contact me:
+leandroslimasr@gmail.com
+  
 ##
 <div align="center">
   <a href="https://github.com/leandrolimadeveloper">
