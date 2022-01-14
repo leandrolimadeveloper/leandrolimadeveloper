@@ -1,7 +1,7 @@
 ### Hi there! 👋
 I'm Leandro, from Brazil! Currently studying web development to be a back-end developer, and in the future become a full stack.
 
-IT techinician -- Hardware and Basic Network (technical course)<br>
+IT techinician -- Hardware, OS and Basic Network (technical course)<br>
 Finishing my graduation in System Analysis.
 
 I Love IT area in general! :)
@@ -23,7 +23,7 @@ I Love IT area in general! :)
 **What I'm learning:**
 <div style="display: inline_block">
 <img align="center" alt="Leandro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Leandro-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+<img align="center" alt="Leandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 ##
 **Soft Skills**:<br>
