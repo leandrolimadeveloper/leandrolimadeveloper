@@ -29,7 +29,7 @@ I Love IT area in general! :)
 **Soft Skills**:<br>
 Discipline and constancy, Pomodoro Technique, Continuous personal/professional development
 
-Languages: Brazilian-Portuguese (native — I have good knowledge with my native language; before I back my studies in IT, I was studying to be translator), Spanish (intermediate-advanced), English (intermediate)
+Languages: Brazilian-Portuguese (native), Spanish (intermediate-advanced), English (intermediate)
 
 ##
 **Contact me:**<br>
