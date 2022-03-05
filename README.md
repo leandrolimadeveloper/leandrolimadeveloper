@@ -1,7 +1,7 @@
 ### Hi there! 👋
 I'm Leandro, from Brazil! Currently studying web development to be a back-end developer, and in the future become a full stack.
 
-IT techinician (technical course)<br>
+IT technician (technical course)<br>
 Systems analyst
 
 I Love IT area in general! :)
