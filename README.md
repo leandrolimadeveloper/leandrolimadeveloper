@@ -28,14 +28,13 @@ I Love IT area in general! :)
 </div>
 
 ##
-**What I'm learning / improving:**
+**What I'm learning / improving:** (Focus on back-end, mainly)
 <div style="display: inline_block">
 <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-
-  ##
+##
 **Soft Skills**:<br>
 Discipline and constancy, Pomodoro Technique, Continuous personal/professional development
 
