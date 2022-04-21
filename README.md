@@ -6,6 +6,10 @@ Systems analyst
 
 I Love IT area in general! :)
 
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+</div>
+
 ##
 **Technologies and Tools: (Hard Skills)**
 <div style="display: inline_block">
