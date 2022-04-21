@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Leandro, from Brazil! Currently studying web development to be a back-end developer, and in the future become a full stack.
+I'm Leandro, from Brazil! Back-end developer in progress, with goal to become a full stack developer in the future.
 
 IT technician (technical course)<br>
 Systems analyst
