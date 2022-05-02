@@ -7,7 +7,7 @@ Systems analyst
 I Love IT area in general!
 
 <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
 </div>
 
 ## (Hard Skills)
@@ -42,8 +42,8 @@ Languages: Brazilian-Portuguese (native), English (intermediate), Spanish (inter
 
 ## Contact me:
 leandroslimasr@gmail.com
-  
-##
+
+<hr>
 <div align="center">
   <a href="https://github.com/leandrolimadeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolimadeveloper&layout=compact&langs_count=7&theme=dark"/>
