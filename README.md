@@ -36,7 +36,7 @@ I Love IT area in general!
 (Focus on back-end, mainly)
 
 ## Soft Skills
-Discipline and constancy, Pomodoro Technique, Continuous personal/professional development
+Discipline and constancy, Pomodoro Technique (adapted), Continuous personal/professional development
 
 Languages: Brazilian-Portuguese (native), English (intermediate), Spanish (intermediate-advanced)
 
