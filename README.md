@@ -29,7 +29,6 @@ I Love IT area in general!
 
 ### What I'm focusing / improving / learning at the moment:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgre-3265e6?style=for-the-badge&logo=postgresql&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 (Focus on back-end, mainly)
