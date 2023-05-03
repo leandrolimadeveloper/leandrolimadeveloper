@@ -27,12 +27,6 @@ I Love IT area in general!
 ![Docker](https://img.shields.io/badge/DOCKER-0849c9?style=for-the-badge&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### What I'm focusing / improving / learning at the moment:
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-(Focus on back-end, mainly)
-
 ## Soft Skills
 Discipline and constancy, Pomodoro Technique (adapted), Continuous personal/professional development
 
